@@ -1,0 +1,10 @@
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\bin\Debug\Lagrange.exe.config
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\bin\Debug\Lagrange.exe
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\bin\Debug\Lagrange.pdb
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.csprojAssemblyReference.cache
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.Properties.Resources.resources
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.csproj.GenerateResource.cache
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.exe
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.pdb
+C:\Users\OSWALL\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.Form1.resources
